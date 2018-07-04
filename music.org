@@ -1,5 +1,8 @@
 * 歌曲
+** 论坛
+- [[http://www.xicxi.com/][XICXI]]
 - [[http://www.tikitiki.cn][自由的音乐]]
 - [[http://lab.mkblog.cn/music]] 
 - [[http://music.wxhbts.com][音乐搜索器]]
 - [[http://www.51ape.com]]
+- [[http://ape8.com/]]
