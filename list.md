@@ -1,1 +1,1 @@
-`老黄老巢 <https://www.laohuang.net/>`_
+[anki](anki.rst)
