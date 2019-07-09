@@ -12,7 +12,14 @@
 - `自在读书 <http://zizaidushu.com/>`_
 - `走读派 <http://www.zoudupai.com/>`_
 - `书伴 <https://kindlefere.com/ebook>`_
-- `just free books <http://www.justfreebooks.info/>`_
+
+外语书籍
+===============
+
+1. `Just free Books <https://www.justfreebooks.info/>`_
+    该网站搜索超过700个免费提供书籍的网站的内容，包括古登堡，wikibooks和archive
+    网站的内容，可以找到各种免费电子书：公共领域文本，开放式书籍，有声读物等。
+
 - `ebook3000 <http://ebook3000.com/>`_
 - `Making of America Books <http://quod.lib.umich.edu/m/moa/>`_
 - `Posner Memorial Collection <http://posner.library.cmu.edu/Posner/>`_
