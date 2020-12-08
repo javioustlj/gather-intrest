@@ -1,7 +1,8 @@
-# gather-intrest
-gather my intrest
+# GATHER INTEREST
 
-- [ebook](ebook.rst)
+主要用来收集自己喜欢的网站。
+
+- [ebook](ebook.md)
 - [English](English.rst)
 - [computer](computer.rst)
 - [video](video.rst)
