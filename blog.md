@@ -1,0 +1,1 @@
+1. [Writing Beautifully in LaTeX](https://www.gleave.me/post/latex-design-patterns/)
