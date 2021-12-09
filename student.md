@@ -2,6 +2,12 @@
 
 1. [课程图谱](http://course.nlpjob.com/)
 
+### 公开课
+
+1. [清华大学网络学堂](https://learn.tsinghua.edu.cn/)
+2. [哈弗大学公开课](https://online-learning.harvard.edu/catalog/free)
+3. [斯坦福大学公开课](https://online.stanford.edu/free-courses)
+
 ### 中小学
 
 1. [锐智网](http://www.raywit.com)
@@ -11,3 +17,9 @@
 2. [新超越](http://www.xinchaoyue.com/)
 
         无需注册，所有资料免费下载。「新超越学习资料网」是一个提供海量学习资料免费搜索和下载的站点，提供海量学习资料免费下载，无需注册，免券免积分；学习资料包括试题、试卷、ppt、课件、教案以及技术文档手册等各类免费学习资料。
+
+3. [302EDU](https://www.302edu.com/)
+
+### 学前教育
+
+1. [我爱ABC](https://www.axzzy.com/)

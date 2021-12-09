@@ -31,4 +31,8 @@
 
         【数学学渣福利！】在这里你只需输入数学式子就能得出答案，包括基础数学、初级代数、代数、初级微积分、细分科目，且解题过程非常详细，同时还给这么多数学作业忧郁症患者带来了福利
 
-19 [福绿吧](http://www.wdflb.com/)
+19. [福绿吧](http://www.wdflb.com/)
+20. [下厨房](https://www.xiachufang.com/)
+21. [北大法律英语网](http://www.lawinfochina.com/display.aspx?id=28206&lib=law)
+22. [伊索寓言](https://fablesofaesop.com/)
+23. [美丽的化学](https://www.beautifulchemistry.net/)

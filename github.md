@@ -31,3 +31,4 @@
 12. [面试总结](https://github.com/0voice/interview_internal_reference)
 
 13. [Stackoverflow上对C/C++问题的整理、总结和翻译](https://github.com/EthsonLiu/stackoverflow-top-cpp/tree/master/question)
+14. [C++ Tip of The Week](https://github.com/QuantlabFinancial/cpp_tip_of_the_week)

@@ -14,6 +14,7 @@
 ### cpp
 
 1. [hacking c++](https://hackingcpp.com/)
+2. [c-faq](http://c-faq.com/)
 
 ### 编程挑战网站
 
@@ -40,3 +41,15 @@
 1. [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
         在算法和数据结构领域，有最好的文章、解释和代码解决方案资源。你可以参考这个示例，看到他们是怎样把一个复杂问题分成比较简单的部分，如何解释其解法以及提供代码解决方案的。他们还有一个在线编辑器，你可以在看答案之前先用它练练手。如果你在准备软件工程师的面试，真心得用用这个网站来做点儿准备，以及复习一下那些困难的算法问题。
+
+### 数据结构
+
+1. [数据结构演示平台](http://ds.fmdca380.com/)
+2. [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/)
+3. [Algorithm Visualizer](https://algorithm-visualizer.org/)
+4. [VISUALIZE CODE EXECUTION](http://www.pythontutor.com/)
+5. [VISUALGO](https://visualgo.net/)
+
+### 综合资源
+
+1. [三叶资源网](http://www.sanye.cx/)
