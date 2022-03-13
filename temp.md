@@ -36,3 +36,8 @@
 21. [北大法律英语网](http://www.lawinfochina.com/display.aspx?id=28206&lib=law)
 22. [伊索寓言](https://fablesofaesop.com/)
 23. [美丽的化学](https://www.beautifulchemistry.net/)
+24. [landrop](https://landrop.app/)
+25. [songdonkey](https://songdonkey.ai/)
+26. [TableConvert](https://tableconvert.com/)
+27. [doyoudo](https://www.doyoudo.com/)
+28. https://nav.bioitee.com/
